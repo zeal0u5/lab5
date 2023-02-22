@@ -1,6 +1,6 @@
 body {
   font-family: 'Libre Baskerville', serif;
-  background-color: LightCyan;
+  background-color: Thistle;
   margin: auto;
   text-align: center justify;
   left: 30px;
@@ -11,7 +11,7 @@ body {
 img {
   border-style: outset;
   border-width: 5px;
-  border-color: DarkCyan;
+  border-color: DarkMagenta;
   float: left;
   height: 75px;
 }
@@ -35,7 +35,7 @@ td, th {
   text-align: center;
 }
 footer {
-  background-color: DarkCyan;
+  background-color: DarkMagenta;
   color: AliceBlue;
   top: 10px;
 }
