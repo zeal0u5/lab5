@@ -1,5 +1,6 @@
 td, th {
 	border: 2px solid;
+  border-radius: 25px;
   vertical-align: center;
   padding: 10px;
   text-align: center;
