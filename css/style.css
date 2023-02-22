@@ -1,4 +1,16 @@
 td, th {
 	border: 1px solid;
   }
-  
+body {
+  font-family: 'Libre Baskerville', serif;
+  background-color: LightSteelBlue;
+  }
+footer {
+  background-color: SteelBlue;
+  color: AliceBlue;
+  }
+img {
+  border-style: outset;
+  border-width: medium;
+  border-color: SteelBlue;
+  }
