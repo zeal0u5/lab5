@@ -1,9 +1,3 @@
-td, th {
-	border: 2px solid;
-  vertical-align: center;
-  padding: 10px;
-  text-align: center;
-  }
 body {
   font-family: 'Libre Baskerville', serif;
   background-color: LightCyan;
@@ -13,31 +7,35 @@ body {
   top: 30px;
   bottom: 30px;
   position: relative;
-  }
-footer {
-  background-color: DarkCyan;
-  color: AliceBlue;
-  top: 10px;
-  }
+}
 img {
   border-style: outset;
   border-width: 5px;
   border-color: SteelBlue;
   float: left;
   height: 75px;
-  }
+}
 th {
   font-weight: bold;
-  }
+  position: sticky;
+}
 h1 {
   font-size: 3em;
-  }
+}
 table {
   border: 4px solid;
-  }
+}
 table, th, td {
   position: relative;
-  }
-th {
-  position: sticky;
-  }
+}
+td, th {
+	border: 2px solid;
+  vertical-align: center;
+  padding: 10px;
+  text-align: center;
+}
+footer {
+  background-color: DarkCyan;
+  color: AliceBlue;
+  top: 10px;
+}
