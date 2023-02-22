@@ -2,12 +2,16 @@ td, th {
 	border: 2px solid;
   vertical-align: center;
   padding: 10px;
+  text-align: center;
   }
 body {
   font-family: 'Libre Baskerville', serif;
   background-color: LightSteelBlue;
   margin: auto;
   text-align: center justify;
+  left: 30px;
+  top: 30px;
+  position: relative;
   }
 footer {
   background-color: SteelBlue;
@@ -19,7 +23,6 @@ img {
   border-color: SteelBlue;
   float: left;
   height: 75px;
-
   }
 th {
   font-weight: bold;
@@ -28,8 +31,12 @@ h1 {
   font-size: 2.5em;
   }
 table {
-  border: 4px;
+  border: 4px solid;
+  border-radius: 25px;
   }
 table, th, td {
   position: relative;
+  }
+th {
+  position: sticky;
   }
