@@ -6,7 +6,7 @@ td, th {
   }
 body {
   font-family: 'Libre Baskerville', serif;
-  background-color: LightSteelBlue;
+  background-color: LightCyan;
   margin: auto;
   text-align: center justify;
   left: 30px;
@@ -15,7 +15,7 @@ body {
   position: relative;
   }
 footer {
-  background-color: SteelBlue;
+  background-color: DarkCyan;
   color: AliceBlue;
   top: 10px;
   }
