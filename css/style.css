@@ -2,7 +2,7 @@ body {
   font-family: 'Libre Baskerville', serif;
   background-color: Thistle;
   margin: auto;
-  text-align: center;
+  text-align: left;
   left: 30px;
   top: 30px;
   bottom: 30px;
@@ -39,5 +39,5 @@ footer {
   background-color: DarkMagenta;
   color: AliceBlue;
   top: 10px;
-  text-align: left;
+  padding: 10px;
 }
